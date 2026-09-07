@@ -1,0 +1,82 @@
+{
+  "ads": {
+    "ads_active": true,
+    "home_banner_top": true,
+    "home_banner_middle": true,
+    "home_banner_bottom": true,
+    "home_video_top": true,
+    "home_banner_list_bottom": true,
+    "banner_per_row_videolist": "3",
+    "inter_ads_first_video_show": true,
+    "inter_ads_per": "3",
+    "reward_ads_per": "10"
+  },
+  "slide": [
+    {
+      "thumbnail": "https://img.magnific.com/free-vector/creative-welcome-team-banner-your-recruitment-process_1017-50446.jpg?semt=ais_hybrid&w=740&q=80",
+      "link": "https://img.magnific.com/free-vector/creative-welcome-team-banner-your-recruitment-process_1017-50446.jpg?semt=ais_hybrid&w=740&q=80",
+      "direct_go": true,
+      "ad": true,
+      "show_text": false,
+      "day": "all",
+      "start": "2026-02-10",
+      "end": "2026-10-10"
+    }
+  ],
+  "local_ads": [
+    {
+      "tag": "home_top",
+      "thumbnail": "https://i.ibb.co/Myvkv3cm/Picsart-26-09-05-18-51-39-772.png",
+      "link": "https://placehold.co/300x100?text=This+is+home+top",
+      "direct_go": true,
+      "day": "all",
+      "start": "2026-07-10",
+      "end": "2026-12-31"
+    },
+    {
+      "tag": "home_middle",
+      "thumbnail": "https://i.ibb.co/VpcM8Hvh/images-4-1.jpg",
+      "link": "https://placehold.co/300x50?text=home_middle",
+      "direct_go": true,
+      "day": "all",
+      "start": "2026-07-10",
+      "end": "2026-12-31"
+    },
+    {
+      "tag": "home_bottom",
+      "thumbnail": "https://i.ibb.co/VpcM8Hvh/images-4-1.jpg",
+      "link": "https://placehold.co/300x100?text=home_bottom",
+      "direct_go": true,
+      "day": "all",
+      "start": "2026-07-10",
+      "end": "2026-12-31"
+    },
+    {
+      "tag": "list_bottom",
+      "thumbnail": "https://i.ibb.co/VpcM8Hvh/images-4-1.jpg",
+      "link": "https://placehold.co/300x100?text=list",
+      "direct_go": true,
+      "day": "all",
+      "start": "2026-07-10",
+      "end": "2026-12-31"
+    },
+    {
+      "tag": "video_top",
+      "thumbnail": "https://i.ibb.co/VpcM8Hvh/images-4-1.jpg",
+      "link": "",
+      "direct_go": true,
+      "day": "all",
+      "start": "2026-07-10",
+      "end": "2026-12-31"
+    }
+  ],
+  "website": "https://akar.com",
+  "update": {
+    "poster": "",
+    "version": "1.0.0",
+    "title": "Update Version",
+    "message": "Now we released update version so please update on website",
+    "force": false,
+    "website": "https://akar.com/download"
+  }
+}
